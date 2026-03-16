@@ -1,5 +1,9 @@
 ﻿# 🍦 Ice Cream Sales Prediction Dashboard (SaaS Edition)
 
+
+ **The App Demo link**- https://dbpr7bizawsehabv7t9agz.streamlit.app/
+
+
 ## 🚀 Product Summary
 **Ice Cream Sales Prediction Dashboard** is a SaaS-ready analytics product designed for ice cream shop owners and operations teams. It turns historical temperature and sales data into actionable business insights, forecast scenarios, and downloadable reports.
 
